@@ -1,7 +1,3 @@
-<p align="center">
-<img src="http://richard.yt/card.png" />
-</p>
-
 # Social
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/r1chard1337?color=1DA1F2&label=TWITTER&logo=TWITTER&style=for-the-badge)](https://twitter.com/r1chard1337)
